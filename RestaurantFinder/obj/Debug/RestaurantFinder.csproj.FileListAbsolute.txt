@@ -1,0 +1,15 @@
+D:\Google 드라이브\C#\RestaurantFinder\RestaurantFinder\obj\Debug\RestaurantFinder.csprojAssemblyReference.cache
+D:\Google 드라이브\C#\RestaurantFinder\RestaurantFinder\obj\Debug\RestaurantFinder.Properties.Resources.resources
+D:\Google 드라이브\C#\RestaurantFinder\RestaurantFinder\obj\Debug\RestaurantFinder.csproj.GenerateResource.cache
+D:\Google 드라이브\C#\RestaurantFinder\RestaurantFinder\obj\Debug\RestaurantFinder.csproj.CoreCompileInputs.cache
+D:\Google 드라이브\C#\RestaurantFinder\RestaurantFinder\bin\Debug\RestaurantFinder.exe.config
+D:\Google 드라이브\C#\RestaurantFinder\RestaurantFinder\bin\Debug\RestaurantFinder.exe
+D:\Google 드라이브\C#\RestaurantFinder\RestaurantFinder\bin\Debug\RestaurantFinder.pdb
+D:\Google 드라이브\C#\RestaurantFinder\RestaurantFinder\obj\Debug\RestaurantFinder.exe
+D:\Google 드라이브\C#\RestaurantFinder\RestaurantFinder\obj\Debug\RestaurantFinder.pdb
+C:\Users\1\Documents\Programming_Data\IOT_edu\C#\RestaurantFinder\RestaurantFinder\obj\Debug\RestaurantFinder.csprojAssemblyReference.cache
+C:\Users\1\Documents\Programming_Data\IOT_edu\C#\RestaurantFinder\RestaurantFinder\obj\Debug\RestaurantFinder.Properties.Resources.resources
+C:\Users\1\Documents\Programming_Data\IOT_edu\C#\RestaurantFinder\RestaurantFinder\obj\Debug\RestaurantFinder.csproj.GenerateResource.cache
+C:\Users\1\Documents\Programming_Data\IOT_edu\C#\RestaurantFinder\RestaurantFinder\obj\Debug\RestaurantFinder.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\Programming_Data\IOT_edu\C#\RestaurantFinder\RestaurantFinder\obj\Debug\RestaurantFinder.exe
+C:\Users\1\Documents\Programming_Data\IOT_edu\C#\RestaurantFinder\RestaurantFinder\obj\Debug\RestaurantFinder.pdb
